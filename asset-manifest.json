@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ciclopes-movi/cyclope/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ciclopes-movi/cyclope/static/js/main.997595d8.chunk.js",
-    "main.js.map": "/ciclopes-movi/cyclope/static/js/main.997595d8.chunk.js.map",
-    "runtime-main.js": "/ciclopes-movi/cyclope/static/js/runtime-main.7fb81013.js",
-    "runtime-main.js.map": "/ciclopes-movi/cyclope/static/js/runtime-main.7fb81013.js.map",
-    "static/js/2.37d139a5.chunk.js": "/ciclopes-movi/cyclope/static/js/2.37d139a5.chunk.js",
-    "static/js/2.37d139a5.chunk.js.map": "/ciclopes-movi/cyclope/static/js/2.37d139a5.chunk.js.map",
-    "index.html": "/ciclopes-movi/cyclope/index.html",
-    "precache-manifest.d4f5a72eeb33caef33f815cf284302dc.js": "/ciclopes-movi/cyclope/precache-manifest.d4f5a72eeb33caef33f815cf284302dc.js",
-    "service-worker.js": "/ciclopes-movi/cyclope/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ciclopes-movi/cyclope/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.37d139a5.chunk.js.LICENSE.txt": "/ciclopes-movi/cyclope/static/js/2.37d139a5.chunk.js.LICENSE.txt"
+    "main.css": "/cyclope-landings-front/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cyclope-landings-front/static/js/main.759ee66f.chunk.js",
+    "main.js.map": "/cyclope-landings-front/static/js/main.759ee66f.chunk.js.map",
+    "runtime-main.js": "/cyclope-landings-front/static/js/runtime-main.195c9ad7.js",
+    "runtime-main.js.map": "/cyclope-landings-front/static/js/runtime-main.195c9ad7.js.map",
+    "static/js/2.37d139a5.chunk.js": "/cyclope-landings-front/static/js/2.37d139a5.chunk.js",
+    "static/js/2.37d139a5.chunk.js.map": "/cyclope-landings-front/static/js/2.37d139a5.chunk.js.map",
+    "index.html": "/cyclope-landings-front/index.html",
+    "precache-manifest.b0307235f2523dfcbbb70c91aa9fd823.js": "/cyclope-landings-front/precache-manifest.b0307235f2523dfcbbb70c91aa9fd823.js",
+    "service-worker.js": "/cyclope-landings-front/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cyclope-landings-front/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.37d139a5.chunk.js.LICENSE.txt": "/cyclope-landings-front/static/js/2.37d139a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fb81013.js",
+    "static/js/runtime-main.195c9ad7.js",
     "static/js/2.37d139a5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.997595d8.chunk.js"
+    "static/js/main.759ee66f.chunk.js"
   ]
 }
