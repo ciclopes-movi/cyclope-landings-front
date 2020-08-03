@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ivanntis.github.io/ciclopes-movi/cyclope-landing",
-  "name": "cyclope-landing",
+  "homepage": "http://ivanntis.github.io/ciclopes-movi/cyclope-landings-front",
+  "name": "cyclope-landings-front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
